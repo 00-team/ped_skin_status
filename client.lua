@@ -18,7 +18,7 @@ function getskin()
 end
 
 
-AddEventHandler("solution:PlayerSkinLoaded", function(cb)
+AddEventHandler("ped_skin_status:PlayerSkinLoaded", function(cb)
     local PPed = PlayerPedId()
     getskin()
 
