@@ -2,7 +2,7 @@ fx_version "cerulean"
 
 game "gta5"
 
-description "the solution"
+description "Ped Skin Status"
 
 version "1.1.0"
 
